@@ -6,7 +6,7 @@
 
 🎒 Mobile & Web Product Design, User Interface & User Experience Design, Usability, User-centered design processes, Interaction Design, Motion Design
 
-📫 hi(at)giulianodipace.com
+📫 hello(at)giulianodipace.com
 
 <!---
 giulianodipace/giulianodipace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
