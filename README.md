@@ -1,6 +1,6 @@
 👋 Hi, my name is Giuliano
 
-🧉 I'm a 24 yo. designer with 6+ years of experience in UX/UI and Product Design
+🧉 I'm a 25 yo. designer with 7+ years of experience in UX/UI and Product Design
 
 📇 Argentinian and Italian - EU citizen
 
